@@ -51,20 +51,6 @@ The model distinguishes "Healthy" scans with near-perfect precision. Slight conf
 * **Visualization:** Matplotlib, Seaborn
 * **Computer Vision:** OpenCV
 
-## 🚀 How to Run
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/yourusername/brain-tumor-classification.git](https://github.com/yourusername/brain-tumor-classification.git)
-    ```
-2.  Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Open the notebook:
-    ```bash
-    jupyter notebook assignment_04_Remsza.ipynb
-    ```
-
 ## 🔮 Future Work
 * **Explainable AI (XAI):** Implement Grad-CAM to visualize the specific tumor regions driving the model's predictions.
 * **Hyperparameter Tuning:** Utilize KerasTuner to optimize learning rates and dropout percentages automatically.
